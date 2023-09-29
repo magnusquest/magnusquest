@@ -1,10 +1,8 @@
 # Hi, I'm Martin - aka Quest
 
-- I’m currently learning everything
-- I’m looking to collaborate with other content creators
-- 2023 Goals:
-- I love too play guitar
-- Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- I’m currently learning Cybersecurity through HackTheBox!
+- My goal for 2023 is to complete an MVP for one of my flagship projects
+- I love to play guitar
 
 ### Languages and Tools:
 
