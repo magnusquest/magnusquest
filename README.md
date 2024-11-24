@@ -2,7 +2,7 @@
 
 - Full Stack SWE by day, white-hat hacker by night 😎
 - I’m currently learning Cybersecurity through HackTheBox
-- I love play with new technology, especially AI
+- I love to play with new technology, especially AI
 
 ### Languages and Tools:
 
